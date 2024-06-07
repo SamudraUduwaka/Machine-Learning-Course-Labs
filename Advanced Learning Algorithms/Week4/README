@@ -1,7 +1,0 @@
-Included all the labs done for the Week4 of the ML course Advanced Learning Algorithms
-
-This includes:
-    - A Decision tree from scratch and apply it to the task of classifying whether a mushroom is edible or poisonous
-    - Visualizing how a decision tree is splitted using information gain.
-    - Use Pandas to perform one-hot encoding of a dataset and Use scikit-learn to implement a Decision Tree, Random Forest and XGBoost models
-    
