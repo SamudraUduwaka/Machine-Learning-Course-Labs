@@ -1,3 +1,5 @@
+<h2>Week 1</h2>
+
 <h3>Included all the labs done for the Week1 of the ML course Advanced Learning Algorithms</h3>
 
 This includes:
