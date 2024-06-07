@@ -1,4 +1,6 @@
-<h2>Included all the labs done for the Week3 of the ML course Linear Regression and Classification</h2>
+<h2>Week 3</h2>
+
+<h3>Included all the labs done for the Week3 of the ML course Linear Regression and Classification</h3>
 
 This includes:
 <ul>
