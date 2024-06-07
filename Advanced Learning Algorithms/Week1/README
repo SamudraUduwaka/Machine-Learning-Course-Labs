@@ -1,1 +1,6 @@
+Included all the labs done for the Week1 of the ML course Advanced Learning Algorithms
 
+This includes:
+    - Exploring inner workings of neurons/units and layers
+    - Simple Neural Network using TensorFlow (Coffee Roasting problem)
+    - Simple Neural Network using Numpy (Coffee Roasting problem)
