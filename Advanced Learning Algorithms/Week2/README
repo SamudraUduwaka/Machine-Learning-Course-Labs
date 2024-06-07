@@ -1,1 +1,8 @@
+Included all the labs done for the Week2 of the ML course Advanced Learning Algorithms
 
+This includes:
+    - Back propagation using a computation graph
+    - Derivatives with sympy library
+    - An example of multi-class classification using neural networks
+    - ReLU Activation
+    - Softmax Function used in both Softmax Regression and in Neural Networks when solving Multiclass Classification problems
