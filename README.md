@@ -14,7 +14,7 @@ Included all the lab tasks which I have tried in the path of practicing and gett
         <li>Consisted of Four Course Weeks</li>
     </ul> 
 </br>
-- Unsupervised Learning
+    - Unsupervised Learning
     <ul>
         <li>Third and Final Course of the Machine Learning Specialization</li>
         <li>Consisted of Three Course Weeks</li>
