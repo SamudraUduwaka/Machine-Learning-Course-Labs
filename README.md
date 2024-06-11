@@ -6,12 +6,14 @@ Included all the lab tasks which I have tried in the path of practicing and gett
     <ul>
         <li>First Course of the Machine Learning Specialization</li>
         <li>Consisted of Three Course Weeks</li>
+        <li>[Verify Completion](https://www.coursera.org/account/accomplishments/verify/J29V24PBWYR8)</li>
     </ul>
 </br>
     - Advanced Learning Algorithms
     <ul>
         <li>Second Course of the Machine Learning Specialization</li>
         <li>Consisted of Four Course Weeks</li>
+        <li>[Verify Completion](https://www.coursera.org/account/accomplishments/verify/BW8DXYRMVTX9)</li>
     </ul> 
 </br>
     - Unsupervised Learning
