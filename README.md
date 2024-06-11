@@ -12,5 +12,12 @@ Included all the lab tasks which I have tried in the path of practicing and gett
     <ul>
         <li>Second Course of the Machine Learning Specialization</li>
         <li>Consisted of Four Course Weeks</li>
-    </ul>        
+    </ul> 
+</br>
+- Unsupervised Learning
+    <ul>
+        <li>Third and Final Course of the Machine Learning Specialization</li>
+        <li>Consisted of Three Course Weeks</li>
+    </ul>
+
 offered by DeepLearning.AI with Coursera Online Learning Providers.
